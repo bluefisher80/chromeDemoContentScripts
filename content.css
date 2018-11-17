@@ -1,0 +1,4 @@
+#qrcode .qrcode-item {
+    float: left;
+    display: none;
+}
